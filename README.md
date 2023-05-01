@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Bineeth Sasitharan,
+
+A Data Science aspirant, 
+
+🌱 I’m currently pursuing my passion for data science and expanding my skillset in areas such as Python, SQL, Statistics, Machine Learning, and more📚.
+
+🧗‍♂️I am enthusiastic about leveraging my engineering knowledge and analytical skills to explore data and develop insights that drive business decisions. I am eager to contribute to projects that challenge me and allow me to continue growing.
 
 <!--
 **bineethsasitharan/bineethsasitharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
