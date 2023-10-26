@@ -2,7 +2,7 @@
 
 Organized, communicative, and result-driven AI & ML professional with a solid foundation in the engineering domain and a proven track record of applying cutting-edge artificial intelligence and machine learning techniques with technical expertise and industry insight.
 
-Here you can find my work sample projects on Machine Learning, Deep Learning, Data Analysis.
+Here you can find my work samples on Machine Learning, Deep Learning and Data Analysis.
 
 <!--
 **bineethsasitharan/bineethsasitharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
